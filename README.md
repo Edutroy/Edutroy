@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Edutroy?tab=repositories](https://github.com/Edutroy?tab=repositories)
 
-- 💬 Ask me about **annything, I'll be glad to help you**
+- 💬 Ask me about **anything, I'll be glad to help you**
 
 - 📫 How to reach me **lbeduardo8@gmail.com**
 
