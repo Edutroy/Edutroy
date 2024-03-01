@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Scrapy**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Edutroy?tab=repositories](https://github.com/Edutroy?tab=repositories)
+- 👨‍💻 All my projects are available at [https://github.com/Edutroy?tab=repositories](https://github.com/Edutroy?tab=repositories)
 
 - 💬 Ask me about **anything, I'll be glad to help you**
 
